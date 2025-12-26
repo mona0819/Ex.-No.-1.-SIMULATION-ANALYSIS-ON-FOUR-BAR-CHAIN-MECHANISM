@@ -50,11 +50,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 ## Input:
-<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/7ed13f2d-ff46-4db2-a1e0-83eea44881e6" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/0a31ec5a-48e9-4ecf-8f8b-c9a4d4aa1e46" />
 
 ## Output:
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/c6395db8-b418-44db-84f4-430e42f2fa01" />
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/0a31ec5a-48e9-4ecf-8f8b-c9a4d4aa1e46" />
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/7ed13f2d-ff46-4db2-a1e0-83eea44881e6" />
 
 
 ### Name: Mohana Priya D

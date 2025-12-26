@@ -56,6 +56,30 @@
 <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/c6395db8-b418-44db-84f4-430e42f2fa01" />
 <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/7ed13f2d-ff46-4db2-a1e0-83eea44881e6" />
 
+## Explanation:
+```
+This experiment shows how a four-bar mechanism moves when the input link (r2) is rotated.
+
+r1 is the fixed (ground) link
+
+r2 is the input crank
+
+r3 is the coupler
+
+r4 is the output rocker
+
+When the input angle θ₂ is given, the positions (angles) of the other links θ₃ and θ₄ are calculated.
+
+Because it is a Grashof mechanism, at least one link can rotate completely.
+For the same input angle, the mechanism can have two positions:
+
+Open configuration – links do not cross
+
+Crossed configuration – links cross each other
+
+The table shows the angles of all links for both configurations.
+The transmission angle (γ) shows how efficiently motion is transmitted.
+```
 
 ### Name: Mohana Priya D
 ### Register Number: 25016734

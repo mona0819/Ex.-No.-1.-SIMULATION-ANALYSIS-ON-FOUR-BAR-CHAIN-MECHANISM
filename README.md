@@ -51,11 +51,38 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
+## Input:
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/96a20de5-9c0d-438d-9935-7b9991af67af" />
+
 
 ## Output:
-<img width="1618" height="858" alt="Screenshot 2025-12-19 194203" src="https://github.com/user-attachments/assets/05c63422-26b3-4296-ac73-ada908d84c51" />
-<img width="1616" height="868" alt="Screenshot 2025-12-19 194251" src="https://github.com/user-attachments/assets/a12f4070-a90e-45da-89db-e4bec6de9e40" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/db11a9cb-0d2d-44e0-bdb5-0bad19691d2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/656216f7-cf28-4298-8fe3-11d1072a862d" />
 
+## Explanation:
+```
+This experiment shows how a four-bar mechanism moves when the input link (r2) is rotated.
+
+r1 is the fixed (ground) link
+
+r2 is the input crank
+
+r3 is the coupler
+
+r4 is the output rocker
+
+When the input angle θ₂ is given, the positions (angles) of the other links θ₃ and θ₄ are calculated.
+
+Because it is a Grashof mechanism, at least one link can rotate completely.
+For the same input angle, the mechanism can have two positions:
+
+Open configuration – links do not cross
+
+Crossed configuration – links cross each other
+
+The table shows the angles of all links for both configurations.
+The transmission angle (γ) shows how efficiently motion is transmitted.
+```
 
 ### Name:SADHANA R
 ### Register Number: 25017643

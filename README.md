@@ -1,7 +1,5 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
-
 ## AIM:
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
@@ -51,10 +49,12 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
+## Input:
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/7ed13f2d-ff46-4db2-a1e0-83eea44881e6" />
 
 ## Output:
-<img width="1220" height="758" alt="image" src="https://github.com/user-attachments/assets/58181932-4b22-4bf0-8e11-44aae5a8ea66" />
-<img width="1265" height="750" alt="image" src="https://github.com/user-attachments/assets/9c630b07-e980-4c9c-8a04-fb6b19c7d08a" />
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/c6395db8-b418-44db-84f4-430e42f2fa01" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/0a31ec5a-48e9-4ecf-8f8b-c9a4d4aa1e46" />
 
 
 ### Name: Mohana Priya D
